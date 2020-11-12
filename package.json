@@ -1,0 +1,11 @@
+{
+  "name": "yarn-deploy-s3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nandiheath/yarn-deploy-s3.git",
+  "author": "Nandi Wong <nandi0315@gmail.com>",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "license": "MIT"
+}
